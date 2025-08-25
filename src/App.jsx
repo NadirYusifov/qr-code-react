@@ -32,7 +32,7 @@ export default function App() {
       <div className="flex flex-col items-center justify-center mt-10">
         <input placeholder="Please URL enter" className="w-72 border border-zinc-600 outline-none px-2 py-1 rounded-sm" onChange={(e) => setValue(e.target.value)} />
         <div className="pt-4">
-          <button className="cursor-pointer hover:bg-blue-800 transition-colors duration-300 ease-in-out bg-blue-500 text-white px-2.5 py-1.5 rounded-sm" onClick={downloadQRCode}>Download</button>
+          <button className="cursor-pointer hover:bg-blue-800 transition-colors duration-300 ease-in-out bg-green-500 text-white px-2.5 py-1.5 rounded-sm" onClick={downloadQRCode}>Download</button>
         </div>
       </div>
     </div>
