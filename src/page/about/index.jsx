@@ -14,11 +14,11 @@ export const About = () => {
             generate the QR code. The site was written using a learning and
             teaching methodology with{" "}
             <a href="https://github.com/orujaliev" className="text-sky-600">
-              Seccad Orujaliyev
+              orujaliev
             </a>
             . It was also a coding practice for me. Thank you,{" "}
             <a href="https://github.com/orujaliev" className="text-sky-600">
-              Seccad Orujaliyev
+              orujaliev
             </a>
             . <br />
             If you want to see which packages and resources were used on the
