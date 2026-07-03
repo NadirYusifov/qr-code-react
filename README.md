@@ -1,8 +1,8 @@
-# QR Code Generate for URL.
-
 <p align="center">
 <img src="./public/logo.png" alt="QR Code Generate logo" width="150"/>
 </p>
+
+# QR Code Generate for URL.
 
 ## This is a website that generates a QR code for a URL or Link.
 
